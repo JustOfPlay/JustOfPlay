@@ -1,6 +1,17 @@
+
+
+<div align="center">
+    <a href="https://discord.gg/kqANTp65d3"><img src="https://img.shields.io/discord/1176947514742681613?logo=discord" alt="Discord"/></a>    
+</div>
+
+---
+
+# 📰 Bio
 - 👋 Hi, I’m @JustOfPlay
 - 👀 I’m interested in coding
 - 📫 How to reach me: Discord: justofplay
+  
+---
 
 # 💰 Donation
 
