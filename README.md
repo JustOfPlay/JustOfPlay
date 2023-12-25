@@ -42,6 +42,7 @@ If you wanna contact me you can join my [Discord](https://discord.gg/kqANTp65d3)
 # 📢 My Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JustOfPlay&repo=DeltaModLoader)](https://github.com/JustOfPlay/DeltaModLoader)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JustOfPlay&repo=DiscordNitroGenerator)](https://github.com/JustOfPlay/DiscordNitroGenerator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JustOfPlay&repo=Delta)](https://github.com/JustOfPlay/Delta)
 
 # 💰 Donation
 
