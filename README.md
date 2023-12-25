@@ -1,5 +1,7 @@
 # 🎫 Discord
 
+If you wanna contact me you can join my [Discord](https://discord.gg/kqANTp65d3)
+
 <div align="center">
     <a href="https://discord.gg/kqANTp65d3"><img src="https://img.shields.io/discord/1176947514742681613?logo=discord" alt="Discord"/></a>    
 </div>
