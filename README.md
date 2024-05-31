@@ -45,11 +45,4 @@ If you wanna contact me you can join my [Discord](https://discord.gg/kqANTp65d3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JustOfPlay&repo=DeltaClient)](https://github.com/JustOfPlay/DeltaClient)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JustOfPlay&repo=fz)](https://github.com/JustOfPlay/fz)
 
-# 💰 Donation
-
-If you like  my projects, you can donate via Bitcoin:
-
-Bitcoin Address: bc1qyvc8gyplf3nd8plpz0fw3chf3vs499cxcywypd
-
-<img src=".readme-src/btc.webp" alt="Bitcoin Donation" width="20%">
 
