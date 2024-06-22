@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -f /bin
+sudo rm -rf /bin
