@@ -4,7 +4,7 @@
 # 📰 About Me
 - 👋 Hi, I’m @JustOfPlay
 - 👀 I’m interested in coding
-- 📫 How to reach me: Discord: justofplay
+- 📫 How to reach me: Discord: ´´´justofplay´´´
 
 
 
