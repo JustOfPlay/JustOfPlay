@@ -4,13 +4,13 @@
 
 </div>
 
----
+
 
 ## 📂 My Projects
 
 - 🎛️ **Dotfiles** – My personal dotfiles for Linux with Hyprland.
 
----
+
 
 ## 🧰 Languages & Tools
 
