@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,bash,mysql,github" alt="Languages and Tools" />
 </div>
 
----
 
 ## 🌱 Things I'm Learning
 
@@ -26,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,vim,docker" alt="Learning" />
 </div>
 
----
 
 ## ❤️ Things I Love
 
@@ -34,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=github,idea,discord,stackoverflow,arch,raspberrypi,linux" alt="Favorites" />
 </div>
 
----
 
 ## 🖥️ My Operating Systems
 
@@ -42,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=arch,debian,windows" alt="Operating Systems" />
 </div>
 
----
+
 
 ## 📊 Dev DNA Stats
 
@@ -52,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustOfPlay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
----
 
 ## 🔌 Contact
 
