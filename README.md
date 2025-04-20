@@ -1,34 +1,67 @@
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+there!+I+am+Luis;Linux+Nerd;Coding+Enthusiast)
 
+</div>
 
-# 📰 About Me
-- 👋 Hi, I’m @JustOfPlay
-- 👀 I’m interested in coding
-- 📫 How to reach me: Discord: ```justofplay```
+---
 
+## 📂 My Projects
 
+- 🎛️ **Dotfiles** – My personal dotfiles for Linux with Hyprland.
 
+---
 
+## 🧰 Languages & Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,bash,mysql,github" alt="Languages and Tools" />
+</div>
 
+---
 
+## 🌱 Things I'm Learning
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,vim,docker" alt="Learning" />
+</div>
 
+---
 
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JustOfPlay?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+## ❤️ Things I Love
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,idea,discord,stackoverflow,arch,raspberrypi,linux" alt="Favorites" />
+</div>
 
+---
 
-# 📈 My Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustOfPlay&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+## 🖥️ My Operating Systems
 
-# 📊 Most used Programming Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JustOfPlay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arch,debian,windows" alt="Operating Systems" />
+</div>
 
+---
 
+## 📊 Dev DNA Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JustOfPlay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustOfPlay&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustOfPlay&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
+---
 
+## 🔌 Contact
 
-
+<div align="center">
+  <a href="mailto:ineedaprofessionalemailaddress@plshelp.com">
+    <img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JustOfPlay">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
