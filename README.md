@@ -46,9 +46,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JustOfPlay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustOfPlay&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustOfPlay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 
 
 ## 🔌 Contact
