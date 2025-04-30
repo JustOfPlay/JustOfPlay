@@ -8,7 +8,7 @@
 
 ## 📂 My Projects
 
-- 🎛️ **Dotfiles** – My personal dotfiles for Linux with Hyprland.
+- 🔑 **[Authenticator](https://github.com/JustOfPlay/Authenticator)**
 
 
 
