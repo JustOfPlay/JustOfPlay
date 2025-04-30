@@ -8,7 +8,7 @@
 
 ## 📂 My Projects
 
-- 🔑 **[Authenticator](https://github.com/JustOfPlay/Authenticator)**
+- 🔑 **[Authenticator](https://github.com/JustOfPlay/Authenticator)** The Authenticator is a desktop application built in Java that generates time-based one-time passwords (TOTP) for secure authentication.
 
 
 
