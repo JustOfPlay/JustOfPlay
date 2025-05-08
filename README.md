@@ -6,16 +6,10 @@
 
 
 
-## 📂 My Projects
-
--
-
-
-
 ## 🧰 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,mysql,github" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,sqlite,github" alt="Languages and Tools" />
 </div>
 
 
