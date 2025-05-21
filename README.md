@@ -6,16 +6,10 @@
 
 
 
-## 📂 My Projects
-
-- 🎛️ **Dotfiles** – My personal dotfiles for Linux with Hyprland.
-
-
-
 ## 🧰 Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,bash,mysql,github" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,bash,sqlite,github" alt="Languages and Tools" />
 </div>
 
 
@@ -58,14 +52,5 @@
 
 
 
-## 🔌 Contact
 
-<div align="center">
-  <a href="mailto:ineedaprofessionalemailaddress@plshelp.com">
-    <img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/JustOfPlay">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
