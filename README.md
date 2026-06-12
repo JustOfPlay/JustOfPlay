@@ -11,10 +11,6 @@ I use Arch Linux as my daily driver and Neovim as my main editor. I enjoy workin
 Most of my time goes into coding, experimenting with Linux, and exploring different areas of software development like automation and self-hosting. I mainly learn by building projects and figuring things out along the way.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/justofplay) 
-
-
 ## 📊 Stats
 [![Luis GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JustOfPlay&include_all_commits=true&count_private=true&theme=radical&show_icons=true)](https://github.com/JustOfPlay)
 
