@@ -14,9 +14,6 @@ Most of my time goes into coding, experimenting with Linux, and exploring differ
 ## 📊 Stats
 [![Luis GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JustOfPlay&include_all_commits=true&count_private=true&theme=radical&show_icons=true)](https://github.com/JustOfPlay)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JustOfPlay&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
 
 ## 👁️‍🗨️ Profile Visitors
 ![Counter](https://count.getloli.com/get/@mJustOfPlay)
